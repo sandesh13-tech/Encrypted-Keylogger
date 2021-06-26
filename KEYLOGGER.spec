@@ -5,7 +5,7 @@ block_cipher = None
 
 
 a = Analysis(['KEYLOGGER.py'],
-             pathex=['C:\\Users\\SANDESH\\Desktop\\forensics\\python-advanced-keylogger-crash-course-master'],
+             pathex=['C:\\Users\\SANDESH\\Desktop\\forensics\'],
              binaries=[],
              datas=[],
              hiddenimports=[],
